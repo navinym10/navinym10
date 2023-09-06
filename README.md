@@ -21,10 +21,9 @@ Feel free to reach out for collaboration, mentorship, or just to chat about all 
 ![git](https://github.com/navinym10/navinym10/assets/122440908/af04e980-42e9-4e75-8b35-f158aaf6be83)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-navinym10&color=blue)
-
-
 📊 **GitHub Stats**
+
+![](https://komarev.com/ghpvc/?username=your-github-navinym10&color=blue)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navinym10&show_icons=true&theme=dark)](https://github.com/navinym10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navinym10&theme=tokyonight)
