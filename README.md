@@ -6,7 +6,7 @@
 I'm passionate about crafting innovative software solutions that make a positive impact. With a strong foundation in Information Technology and years of hands-on experience, I thrive in turning ideas into functional, user-friendly applications. I'm constantly learning and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
 
 **🛠️ Languages & Tools**
-![Alt text](https://www.javascript.com/)
+![Alt text](https://www.python.org/)
 
 🛠️ **Tech Stack**
 **- Programming languages:**
