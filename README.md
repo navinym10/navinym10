@@ -9,17 +9,18 @@ Crafting code and building digital experiences. Always learning, always coding.
 Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on [LinkedIn](https://www.linkedin.com/in/navin-prasanth-r-1b6b1321b/).
 
 🛠️ **Languages & Tools**
-<p align="centre">
-<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/5779a38d-9b42-47b8-8b86-2bf985646c22" alt="js" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/11483e00-dcd7-469d-8ba5-0ccc5346da87" alt="ts" width="40" height="40"/></a>
-<a href="" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/14912528-04f0-457f-9a3d-85a9685aa06a" alt="html" width="40" height="40"/></a>
-<a href="" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/d1bfcb10-f4f4-42aa-89c8-a347792d42de" alt="css" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/fb257790-0820-4906-9e01-bb45e69ed404" alt="react" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/e07a9af6-be35-4f7a-8712-69fa4cfb33b8" alt="reactNative" width="40" height="40"/></a>
-<a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/3658d93b-5768-4c53-b444-e4513eac5277" alt="nodejs" width="40" height="40"/></a>
-<a href="https://developer.android.com/studio?gclid=Cj0KCQjwxuCnBhDLARIsAB-cq1p6svYSgfaszSV68TWCP2CHqJDh4pFpZdHRCM1daFvb3olvAHflD-8aAgryEALw_wcB&gclsrc=aw.ds" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/b484b14f-9833-48b8-bf88-8515ef72586c" alt="android" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/af04e980-42e9-4e75-8b35-f158aaf6be83" alt="git" width="40" height="40"/></a>
-</p>
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 📊 **GitHub Stats**
 
