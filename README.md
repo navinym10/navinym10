@@ -5,6 +5,9 @@
 🌟 **About Me**
 I'm passionate about crafting innovative software solutions that make a positive impact. With a strong foundation in Information Technology and years of hands-on experience, I thrive in turning ideas into functional, user-friendly applications. I'm constantly learning and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
 
+**🛠️ Languages & Tools**
+![Alt text](https://www.javascript.com/)
+
 🛠️ **Tech Stack**
 **- Programming languages:**
     - Technical: JavaScript, TypeScript, Kotlin
@@ -18,7 +21,7 @@ I'm passionate about crafting innovative software solutions that make a positive
 
 📚 Continuous Learner
 In this fast-paced tech world, I'm committed to lifelong learning. Whether it's diving into a new programming language, exploring emerging frameworks, or studying best practices in software design, I'm always eager to expand my knowledge.
-
+    
 📫 Let's Connect
 Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on [LinkedIn](https://www.linkedin.com/in/navin-prasanth-r-1b6b1321b/)
 
