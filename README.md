@@ -25,7 +25,7 @@ Feel free to reach out for collaboration, mentorship, or just to chat about all 
 
 ![](https://komarev.com/ghpvc/?username=your-github-navinym10&color=blue)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navinym10&show_icons=true&theme=dark)](https://github.com/navinym10)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navinym10&show_icons=true&theme=radical)](https://github.com/navinym10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navinym10&layout=compact)
 
 🚀 Let's build the future of technology together! 🌟
