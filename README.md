@@ -19,7 +19,6 @@ Feel free to reach out for collaboration, mentorship, or just to chat about all 
 <a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/3658d93b-5768-4c53-b444-e4513eac5277" alt="nodejs" width="40" height="40"/></a>
 <a href="https://developer.android.com/studio?gclid=Cj0KCQjwxuCnBhDLARIsAB-cq1p6svYSgfaszSV68TWCP2CHqJDh4pFpZdHRCM1daFvb3olvAHflD-8aAgryEALw_wcB&gclsrc=aw.ds" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/b484b14f-9833-48b8-bf88-8515ef72586c" alt="android" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/af04e980-42e9-4e75-8b35-f158aaf6be83" alt="git" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
 
 📊 **GitHub Stats**
@@ -27,7 +26,6 @@ Feel free to reach out for collaboration, mentorship, or just to chat about all 
 ![](https://komarev.com/ghpvc/?username=your-github-navinym10&color=blue)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navinym10&show_icons=true&theme=dark)](https://github.com/navinym10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navinym10&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navinym10&layout=compact)
 
 🚀 Let's build the future of technology together! 🌟
