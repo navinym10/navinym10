@@ -6,7 +6,9 @@
 Crafting code and building digital experiences. Always learning, always coding.
 
 📫 **Let's Connect**
-Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on [LinkedIn](https://www.linkedin.com/in/navin-prasanth-r-1b6b1321b/)
+Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on 
+[LinkedIn](https://www.linkedin.com/in/navin-prasanth-r-1b6b1321b/)
+[Mail](navinprasanthr@gmail.com).
 
 🛠️ **Languages & Tools**
 
