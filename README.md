@@ -6,7 +6,6 @@
 I'm passionate about crafting innovative software solutions that make a positive impact. With a strong foundation in Information Technology and years of hands-on experience, I thrive in turning ideas into functional, user-friendly applications. I'm constantly learning and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
 
 🛠️ **Tech Stack**
-
 - Technical programming: JavaScript, TypeScript, Kotlin
 - Non-Technical programming: HTML, CSS
 - Frontend: React, React Native, Android
