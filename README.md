@@ -24,6 +24,8 @@ Feel free to reach out for collaboration, mentorship, or just to chat about all 
 ![android](https://github.com/navinym10/navinym10/assets/122440908/b484b14f-9833-48b8-bf88-8515ef72586c)
 ![git](https://github.com/navinym10/navinym10/assets/122440908/af04e980-42e9-4e75-8b35-f158aaf6be83)
 
+<a href="" target="_blank"><img src="https://github.com/navinym10/navinym10/assets/122440908/af04e980-42e9-4e75-8b35-f158aaf6be83" alt="git" width="40" height="40"/></a>
+
 
 📊 **GitHub Stats**
 
