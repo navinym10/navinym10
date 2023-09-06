@@ -14,13 +14,14 @@ I'm passionate about crafting innovative software solutions that make a positive
 - Tools: VS Code, Android Studio
 - VCS: GIT
 
-📚 Continuous Learner
-In this fast-paced tech world, I'm committed to lifelong learning. Whether it's diving into a new programming language, exploring emerging frameworks, or studying best practices in software design, I'm always eager to expand my knowledge.
+![](https://komarev.com/ghpvc/?username=your-github-navinym10&color=blue)
     
 📫 Let's Connect
 Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on [LinkedIn](https://www.linkedin.com/in/navin-prasanth-r-1b6b1321b/)
 
 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navinym10&show_icons=true&theme=dark)](https://github.com/navinym10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navinym10&theme=tokyonight)
+
 
 🚀 Let's build the future of technology together! 🌟
