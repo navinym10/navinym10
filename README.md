@@ -5,19 +5,16 @@
 🌟 **About Me**
 I'm passionate about crafting innovative software solutions that make a positive impact. With a strong foundation in Information Technology and years of hands-on experience, I thrive in turning ideas into functional, user-friendly applications. I'm constantly learning and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
 
-**🛠️ Languages & Tools**
-![Alt text](https://www.python.org/)
-
 🛠️ **Tech Stack**
 **- Programming languages:**
-    - Technical: JavaScript, TypeScript, Kotlin
-    - Non-Technical: HTML, CSS
+- Technical: JavaScript, TypeScript, Kotlin
+- Non-Technical: HTML, CSS
 **- Skills:**   
-    - Frontend: React, React Native, Android
-    - Backend: Node.js with Express
-    - Databases: MongoDB
-    - Tools: VS Code, Android Studio
-    - VCS: GIT
+- Frontend: React, React Native, Android
+- Backend: Node.js with Express
+- Databases: MongoDB
+- Tools: VS Code, Android Studio
+- VCS: GIT
 
 📚 Continuous Learner
 In this fast-paced tech world, I'm committed to lifelong learning. Whether it's diving into a new programming language, exploring emerging frameworks, or studying best practices in software design, I'm always eager to expand my knowledge.
