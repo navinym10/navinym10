@@ -9,6 +9,7 @@ Crafting code and building digital experiences. Always learning, always coding.
 Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on [LinkedIn](https://www.linkedin.com/in/navin-prasanth-r-1b6b1321b/)
 
 🛠️ **Languages & Tools**
+
 ![js](https://github.com/navinym10/navinym10/assets/122440908/00ab9121-3919-40e1-a772-287ee00cb1a9)
 ![typescript](https://github.com/navinym10/navinym10/assets/122440908/d78b4867-8598-47e1-81cd-47b465983987)
 ![html-5](https://github.com/navinym10/navinym10/assets/122440908/84f8b001-94d5-464c-908b-abf42fd2ebe7)
