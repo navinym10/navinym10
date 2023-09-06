@@ -10,6 +10,7 @@ Feel free to reach out for collaboration, mentorship, or just to chat about all 
 
 🛠️ **Languages & Tools**
 
+![js](https://github.com/navinym10/navinym10/assets/122440908/b5ec2f5e-4089-4ebf-8752-9effeca8ec00)
 ![js](https://github.com/navinym10/navinym10/assets/122440908/00ab9121-3919-40e1-a772-287ee00cb1a9)
 ![typescript](https://github.com/navinym10/navinym10/assets/122440908/d78b4867-8598-47e1-81cd-47b465983987)
 ![html-5](https://github.com/navinym10/navinym10/assets/122440908/84f8b001-94d5-464c-908b-abf42fd2ebe7)
