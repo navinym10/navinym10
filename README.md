@@ -10,7 +10,9 @@ Feel free to reach out for collaboration, mentorship, or just to chat about all 
 
 🛠️ **Tech Stack**
 
-![react](https://github.com/navinym10/navinym10/assets/122440908/45922551-64b8-4160-b30c-d2672327db3b)
+![react (1)](https://github.com/navinym10/navinym10/assets/122440908/e7fee49a-593c-44a9-8e22-dbab7d231378)
+
+
 - Technical programming: JavaScript, TypeScript, Kotlin
 - Non-Technical programming: HTML, CSS
 - Frontend: React, React Native, Android
