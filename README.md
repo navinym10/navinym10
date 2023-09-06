@@ -2,11 +2,14 @@
 
 🚀 Software Developer | 💻 MERN (React & React Native) Stack | 🌍 AI & ML Enthusiast
 
+
 🌟 **About Me**
 Crafting code and building digital experiences. Always learning, always coding.
 
+
 📫 **Let's Connect**
 Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on [LinkedIn](https://www.linkedin.com/in/navin-prasanth-r-1b6b1321b/).
+
 
 🛠️ **Languages & Tools**
 
@@ -28,5 +31,6 @@ Feel free to reach out for collaboration, mentorship, or just to chat about all 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navinym10&show_icons=true&theme=radical)](https://github.com/navinym10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navinym10&layout=compact)
+
 
 🚀 Let's build the future of technology together! 🌟
