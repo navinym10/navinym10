@@ -10,7 +10,9 @@ Feel free to reach out for collaboration, mentorship, or just to chat about all 
 
 🛠️ **Tech Stack**
 
-![react (1)](https://github.com/navinym10/navinym10/assets/122440908/e7fee49a-593c-44a9-8e22-dbab7d231378)
+![react](https://github.com/navinym10/navinym10/assets/122440908/71298f7f-c8ff-4b7b-b423-1f2cfb213713)
+![javascript](https://github.com/navinym10/navinym10/assets/122440908/3191d0ea-60e0-4c24-99a5-fdbec225c0e7)
+
 
 
 - Technical programming: JavaScript, TypeScript, Kotlin
